@@ -1,5 +1,6 @@
-# Airlines-Cancellation-Analytics-Dashboard-
+# Airlines-Cancellation-Analytics-Dashboard
 Power BI dashboard for analyzing 2015 airline cancellations and flight delays. Includes flight duration, delay and cancellation reasons, date, flight number, airline, airports, and scheduled/actual times. Visualizations show total flights, cancellations, delay reasons, and monthly trends.
+
 # Airline Cancellation and Flight Delays Analytics Dashboard
 
 This repository contains a Power BI dashboard created for analyzing airline cancellations and flight delays using a real-world dataset from 2015. The dataset includes detailed information on flight numbers, departure and arrival times, airlines, and reasons for any delays or cancellations. The dashboard provides insights into the most common causes of flight disruptions by examining the frequency of cancellations by airline and the extent of flight delays.
